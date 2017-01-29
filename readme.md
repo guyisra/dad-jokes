@@ -64,4 +64,5 @@ It's funny 'cause it's true.
 ---
 
 **Q:** Why was the little strawberry crying?
+
 **A:** His parents were in a jam
