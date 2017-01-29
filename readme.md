@@ -58,3 +58,10 @@ It's funny 'cause it's true.
 **Q:** Where did the parallel function wash its hands?
 
 **A:** Async
+
+# Other Dad Jokes
+
+---
+
+**Q:** Why was the little strawberry crying?
+**A:** His parents were in a jam
